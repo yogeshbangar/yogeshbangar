@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**yogeshbangar/yogeshbangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m cur# 💫 About Me:
+# 💫 About Me:
 With over 14 years of experience, I specialize in interactive web development, 3D graphics, and full-<br>stack engineering. My expertise spans technologies like Three.js, Node.js, React, Vue.js, AngularJS,<br>HTML5, JavaScript, PHP, and WordPress, along with a strong foundation in graphic design and 3D art<br>quality assurance. Passionate about delivering high-performance, visually immersive digital experiences<br>— blending robust engineering with thoughtful design.<br><br>Frontend: ReactJs, VueJs, HTML5, CSS3, Android (Java), iOS, Unity3D<br>Backend: NodeJs, ExpressJs<br>3D & Game: Unity 3D, ThreeJs, BabylonJs<br>AI-Assistant: Cursor, Copilot, Claude
 
 
@@ -23,11 +15,4 @@ With over 14 years of experience, I specialize in interactive web development, 3
 ---
 [![](https://visitcount.itsvg.in/api?id=yogeshbangar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->rently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
