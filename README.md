@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over 14 years of experience, I specialize in interactive web development, 3D graphics, and full-<br>stack engineering. My expertise spans technologies like Three.js, Node.js, React, Vue.js, AngularJS,<br>HTML5, JavaScript, PHP, and WordPress, along with a strong foundation in graphic design and 3D art<br>quality assurance. Passionate about delivering high-performance, visually immersive digital experiences<br>— blending robust engineering with thoughtful design.<br><br>Frontend: ReactJs, VueJs, HTML5, CSS3, Android (Java), iOS, Unity3D<br>Backend: NodeJs, ExpressJs<br>3D & Game: Unity 3D, ThreeJs, BabylonJs<br>AI-Assistant: Cursor, Copilot, Claude
+I specialize in interactive web development, 3D graphics, and full-<br>stack engineering. My expertise spans technologies like Three.js, Node.js, React, Vue.js, AngularJS,<br>HTML5, JavaScript, PHP, and WordPress, along with a strong foundation in graphic design and 3D art<br>quality assurance. Passionate about delivering high-performance, visually immersive digital experiences<br>— blending robust engineering with thoughtful design.<br><br>Frontend: ReactJs, VueJs, HTML5, CSS3, Android (Java), iOS, Unity3D<br>Backend: NodeJs, ExpressJs<br>3D & Game: Unity 3D, ThreeJs, BabylonJs<br>AI-Assistant: Cursor, Copilot, Claude
 
 
 ## 🌐 Socials:
